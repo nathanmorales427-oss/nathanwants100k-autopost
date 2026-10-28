@@ -62,6 +62,9 @@ def main():
     if os.environ.get("DRY_RUN") == "1":
         print("DRY RUN: everything checks out, nothing posted")
         return
+    if not os.environ.get("IG_TOKEN"):  # manual mode until the Meta app exists: Nathan schedules in the IG app
+        print("MANUAL MODE: no IG_TOKEN secret yet, so nothing posted (Nathan schedules this one in Instagram)")
+        return
     me = call("GET", "me", fields="user_id,username")
     print("posting as @" + me.get("username", "?"))
     kids = [call("POST", "me/media", image_url=u, is_carousel_item="true")["id"] for u in urls]
