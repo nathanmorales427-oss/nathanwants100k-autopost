@@ -29,8 +29,13 @@ Nixon shock Aug 15...), make that day's post about it. Pick topics from TOPICS.m
 1. Hook slide: the most surprising true number or fact + "Here's what happened." / "Here's why." (+ the best photo).
 2. Strongest fact next (front-load).
 3-N. One idea per slide, max ~45 words. Text-only slides are fine (they render bigger).
-N-1. "Why I think about this at 19:" + the lesson in one or two lines (+ "(not financial advice)" if it's a money move).
-N. "I post a new money story every day.\n\nIf you learned something, send this to a friend."
+N-2. "Why I think about this at 19:" + the lesson in one or two lines (+ "(not financial advice)" if it's a money move).
+N-1. **Saveable summary slide:** "The whole story in 4 lines:" then 3-4 short numbered takeaways (dates, numbers, the
+     lesson). This is the slide people screenshot and save; it must stand alone.
+N. One ending earned by the topic, NOT a generic line: a real question tied to the story ("Would you have sold?"),
+   OR a specific save reason ("Save this for the next time..."), OR a specific person to send it to. Rotate them.
+
+**One question per carousel.** Cut side stories (they become their own carousel). Date every study and estimate.
 
 ## Caption (caption field)
 Line 1: the hook with the searchable topic words + 1 emoji (under 125 characters). Blank line. "Send this to the friend
