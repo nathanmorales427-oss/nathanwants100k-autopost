@@ -8,7 +8,7 @@
 - Bank runs of the early 1930s and why the FDIC was created (1933)
 - 1933: Americans ordered to turn in their gold (Executive Order 6102)
 - Bretton Woods, 1944: the dollar becomes the world's money
-- August 15, 1971: the Nixon shock (the dollar leaves gold)
+- ~~August 15, 1971: the Nixon shock (the dollar leaves gold)~~ RESERVED FOR REELS: do not pick
 - Black Monday, October 19, 1987
 - The dot-com bubble and crash (2000-2002)
 - September 15, 2008: Lehman Brothers collapses
@@ -19,10 +19,10 @@
 
 ## Money Basics
 - What a Roth IRA is (and why it matters young)
-- Compound interest with a real example
+- ~~Compound interest with a real example~~ RESERVED FOR REELS: do not pick
 - What an index fund is
 - Expense ratios: the fee you never see
-- Credit card interest: how a balance grows
+- ~~Credit card interest: how a balance grows~~ RESERVED FOR REELS (minimum-payment trap, APR vs APY): do not pick
 - Emergency fund: why and how much
 - Inflation in one carousel
 - What a 401(k) match is
@@ -31,7 +31,7 @@
 - How a credit score works
 
 ## Value Stories (real people, real lessons)
-- Ronald Read, the Vermont janitor who left about $8 million (died 2014)
+- ~~Ronald Read, the Vermont janitor who left about $8 million (died 2014)~~ RESERVED FOR REELS: do not pick
 - Grace Groner, the secretary who left $7 million from one stock
 - Sylvia Bloom, the legal secretary who left millions
 - Warren Buffett bought his first stock at 11
