@@ -42,5 +42,6 @@ Pick from the last 7 days: Fed decisions, inflation (CPI) reports, jobs reports,
 simply, market records or drops, new laws on money. Facts only, explained simply. No predictions, no stock tips.
 
 ## Used
+- RESERVED FOR REELS (do not make carousels on these): Silicon Valley Bank run 2023; the $8M janitor (Ronald Read); sports betting / parlay math
 - 2026-10-28: Weimar hyperinflation 1923 (posted by hand)
 - 2026-10-29: Black Tuesday 1929
