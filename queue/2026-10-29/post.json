@@ -1,0 +1,20 @@
+{
+  "show": "Money History",
+  "slides": [
+    {"text": "97 years ago today was Black Tuesday.\n\nOctober 29, 1929. The stock market lost nearly 12% in one day, right after losing nearly 13% the day before.\n\nHere's what actually caused it.",
+     "photo": "photos/crowd.jpg", "focus": [0.5, 0.45], "photo_h": 520,
+     "credit": "Crowd on Wall Street after the crash, 1929. Photo: U.S. Social Security Administration (public domain)"},
+    {"text": "It wasn't just the crash. It was the debt.\n\nIn 1929, you could buy $1,000 of stock with just $100. Your broker lent you the other $900.\n\nThat's called buying on margin."},
+    {"text": "When prices started falling, brokers wanted their loans back. Right away.\n\nSo people sold their stocks to pay them. That pushed prices down more. So more people had to sell.\n\nA loop that fed itself."},
+    {"text": "From its peak in September 1929 to the bottom in July 1932, the Dow fell 89%.\n\n381 points down to 41.",
+     "photo": "photos/crowd.jpg", "focus": [0.5, 0.95], "photo_h": 470,
+     "credit": "Photo: U.S. Social Security Administration (public domain)"},
+    {"text": "And it didn't get back to its 1929 high until November 1954.\n\nThat's 25 years."},
+    {"text": "Margin was new back then. It let ordinary people buy stocks with borrowed money for the first time.\n\nWhen it all fell apart, a lot of them lost their life savings."},
+    {"text": "Why I think about this at 19:\n\nI don't use margin. Ever.\n\nA falling market is something you can wait out. Borrowed money is what turns it into a disaster.\n\n(not financial advice)"},
+    {"text": "I post a new money history story every day.\n\nIf you learned something, send this to a friend."}
+  ],
+  "caption": "Black Tuesday was 97 years ago today. The 1929 crash in 8 slides 📉\n\nSend this to the friend who wants to trade with borrowed money.\n\nOn October 29, 1929 the stock market lost nearly 12% in one day. The real problem wasn't just the drop: people had bought stocks with 10% down and borrowed the rest.\n\nThe Dow fell 89% by 1932 and didn't get back to its 1929 high until 1954.\n\nNew Money History every day. Follow along 👇\n@nathanwants100k\n\nPhoto: U.S. Social Security Administration (public domain)\nSource: Federal Reserve History, \"Stock Market Crash of 1929\"\nNot financial advice.\n\n#stockmarketcrash #1929 #moneyhistory #greatdepression #investing",
+  "sources": ["https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+              "https://commons.wikimedia.org/wiki/File:Crowd_outside_nyse.jpg"]
+}
